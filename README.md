@@ -4,7 +4,9 @@ I wanted to understand PLC's better and dont currently have one.  Thankfully Ope
 Traffic Light For Arduino Mega
 
 
-**_Digital Out:_** `14, 15, 16, 17, 18, 19, 20, 21`
+**_Digital Out:_** 
+
+`14, 15, 16, 17, 18, 19, 20, 21`
 
 `%QX0.0 – %QX0.7`
 
